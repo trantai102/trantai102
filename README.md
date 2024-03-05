@@ -1,6 +1,6 @@
 # 💫About Me :
-Hi there, I'm Tran Cong Tai
 
+<h1 align="center"> Hi there, I'm Tran Cong Tai </h1>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100034502897362) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trantai_102) 

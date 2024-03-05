@@ -12,9 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trantai102&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trantai102&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=trantai102&show_icons=true&theme=tokyonight)
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=trantai102&show_icons=true&theme=react&hide)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trantai102&theme=tokyonight&layout=compact)
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trantai102&theme=react&hide&layout=compact)
 
 
 ---

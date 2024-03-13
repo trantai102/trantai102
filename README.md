@@ -13,9 +13,9 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=trantai102&theme=react&hide" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trantai102&theme=react&hide&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=trantai102&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=trantai102&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
